@@ -24,3 +24,4 @@ function App() {
 
 export default App;
 
+//adding comments to the code for testing purposes.
