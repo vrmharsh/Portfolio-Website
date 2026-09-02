@@ -17,4 +17,3 @@ root.render(
 reportWebVitals();
 
 
-//adding comments to the code for testing purposes.
